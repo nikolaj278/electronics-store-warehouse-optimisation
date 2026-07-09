@@ -1,6 +1,8 @@
 # Large data files
 data/kz.csv
 
+# project notes
+notes.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
